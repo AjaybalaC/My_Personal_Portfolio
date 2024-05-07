@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* makes sizing simpler */
+
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+
+/* remove default spacing */
+/* force styling of type through styling, rather than elements */
+
+* {
+	margin: 0;
+	padding: 0;
+	font: inherit;
+}
+
+html {
+	scroll-behavior: smooth;
+	background-color: rgb(10 10 10);
+	color: white;
+}
+
+/* min body height */
+
+body {
+	min-height: 100vh;
+	font-family: "Manrope", sans-serif;
+}
+
+
+img,
+picture,
+svg,
+video {
+	display: block;
+	max-width: 100%;
+}
