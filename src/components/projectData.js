@@ -42,13 +42,12 @@ export const projects = [
 		],
 
 		description:
-			"A mock app that lets you buy adorable dogs and get information on them! Users also are able to save their favourite dogs",
-		codeUrl: "https://github.com/wumpfroot/Dogs-4-lyfe",
-		liveUrl: "https://main--stupendous-centaur-dc0b16.netlify.app/",
+			"The dashboard about the Customer sales and profit, which is made with React.js, JavaScript, and CSS. It is a responsive dashboard that can be viewed on any device",
+		// liveUrl: "https://main--stupendous-centaur-dc0b16.netlify.app/",
 	},
 	{
 		id: 3,
-		title: "Password Generator",
+		title: "30 Days of JavaScript Challenge",
 		img: "./images/passgen.jpg",
 		stack: [
 			{
