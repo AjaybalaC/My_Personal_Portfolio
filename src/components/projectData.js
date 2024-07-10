@@ -19,8 +19,7 @@ export const projects = [
 		],
 
 		description:
-			"FRESH FROOTS, FRESH FROOTS! A mock app made with Next.js, to buy fruits fast and cheap. First app that uses the Context API for state, and Stripe backend integrated for test payments. Animations made with Framer Motion.",
-		codeUrl: "https://github.com/RatheeshCoder/chit-fund",
+			"I oversaw the creation of a solid MERN stack application for portfolio management of chit fund companies and cooperative efforts.",
 		liveUrl: "https://chit-fund-qfvc.vercel.app/",
 	},
 	{
