@@ -54,7 +54,7 @@ const ProjectCard = (props) => {
 						className="border border-gray-600 rounded-md p-2 hover:border hover:border-cyan-400"
 					>
 						<a href={props.liveUrl} target="_blank" rel="noopener noreferrer">
-							{props.id !== 4 ? "Live Site" : "Download"}
+							{props.id !== 2 ? "Live Site" : "Download"}
 						</a>
 					</motion.button>
 				</div>
