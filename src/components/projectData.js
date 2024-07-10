@@ -24,7 +24,7 @@ export const projects = [
 	},
 	{
 		id: 2,
-		title: "dashboard",
+		title: "Dashboard",
 		img: "./images/Dashboard.png",
 		stack: [
 			{
